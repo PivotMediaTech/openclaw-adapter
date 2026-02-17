@@ -1,6 +1,3 @@
-# openclaw-adapter
-Standardized architecture blueprints for autonomous content supply chains.
-
 # OpenClaw Adapter for MENA Region
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-green)
